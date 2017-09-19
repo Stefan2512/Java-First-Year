@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28528e87-661f-445f-8145-68888d088b78" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ie/gmit/java3/VatCalculator.java" afterPath="$PROJECT_DIR$/src/ie/gmit/java3/VatCalculator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -256,7 +255,7 @@
       <workItem from="1505842222552" duration="1551000" />
       <workItem from="1505849067521" duration="97000" />
       <workItem from="1505849181816" duration="203000" />
-      <workItem from="1505855087239" duration="724000" />
+      <workItem from="1505855087239" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="update credits">
       <created>1505855236322</created>
@@ -272,11 +271,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505855408384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="extra modifications for testing....">
+      <created>1505855848725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505855848725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5338000" />
+    <option name="totallyTimeSpent" value="5461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -320,7 +326,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update credits" />
     <MESSAGE value="updated credits" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated credits" />
+    <MESSAGE value="extra modifications for testing...." />
+    <option name="LAST_COMMIT_MESSAGE" value="extra modifications for testing...." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
