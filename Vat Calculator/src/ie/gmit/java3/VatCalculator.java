@@ -1,3 +1,5 @@
+//Simple Vat operation
+//Stefan Radu
 package ie.gmit.java3;
 import java.util.Scanner;
 public class VatCalculator {
