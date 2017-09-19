@@ -28,6 +28,7 @@ public class VatCalculator {
                 break;
             case 2:
                 System.out.println("You have selected option 2");
+                System.out.print("Please enter the amount of Euro: ");
                 break;
             default:
                 System.out.println("Must make a proper choice. 1 or 2");
